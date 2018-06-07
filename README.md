@@ -1,5 +1,5 @@
-# golang dispatcher
-golang 调度器
+# golang goroutine dispatcher
+golang 协程调度器
 ---
 之前写代码的时候，随意开goroutine，写完项目后就遇到两个问题。
 - 1、goroutine的数量在某些时候太多，严重影响性能
